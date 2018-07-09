@@ -1,0 +1,11 @@
+<div class="container">
+    <h2>Products</h2>
+    <div class="products">
+        <a *ngFor="let product of products" class="product" routerLink="/product/{{product.id}}">
+            <img src="/assets/images/{{product.id}}.svg" alt="" class="">
+            <div class="product__description">
+                {{product.name}}
+            </div>
+        </a>
+    </div>
+</div>

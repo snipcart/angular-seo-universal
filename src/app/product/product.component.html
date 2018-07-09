@@ -1,0 +1,19 @@
+<div class="container">
+    <div class="product">
+        <img src="../assets/images/{{product.id}}.svg" alt="">
+        <h2>{{product.name}}</h2>
+        <p>{{product.description}}</p>
+        <button
+          class="snipcart-add-item"
+          [attr.data-item-id]="product.id"
+          [attr.data-item-name]="product.name"
+          [attr.data-item-url]="url"
+          [attr.data-item-price]="product.price"
+          [attr.data-item-weight]="product.weight"
+          [attr.data-item-description]="product.description">
+          Buy ({{product.price}}$)
+        </button>
+      </div>
+</div>
+
+

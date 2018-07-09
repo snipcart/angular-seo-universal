@@ -1,0 +1,38 @@
+header{
+    display: flex;
+    width: 100%;
+    background-color: #2876CB;
+    padding: 24px;
+    a{
+        text-decoration: none;
+    }
+}
+
+h1{
+    padding: 0;
+    margin: 0;
+    color: white;
+    font-weight: 500;
+    font-size: 21px;
+}
+
+.snipcart-checkout{
+    margin-left: auto;
+    text-decoration: none;
+    color:white;
+}
+
+footer{
+    display: flex;
+    width: 100%;
+    padding: 24px;
+    background-color: lightgray;
+    position: absolute;
+    bottom: 0;
+    .right{
+        margin-left: auto;
+        a{
+            margin-left: 12px;
+        }
+    }
+}

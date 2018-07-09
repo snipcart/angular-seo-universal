@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Rubik:300,400,500,700');
+
+* {
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family: 'Rubik', sans-serif;
+    color:dimgrey;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #FAFAFA;
+}
