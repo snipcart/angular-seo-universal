@@ -13,13 +13,13 @@ export const PRODUCTS: Product[] = [
         name: "Window Air Conditioner",
         price: 300.00,
         weight: 175000,
-        description: "Perfect to keep a room or small apparment cool."
+        description: "Perfect to keep a room or small apartment cool."
     },
     {
         id: "ac-3",
         name: "A fan",
         price: 10.00,
         weight: 2000,
-        description: "An inexpensive, but effective way to stop your coworkers of complaining about the heat."
+        description: "An inexpensive, but effective way to stop your coworkers from complaining about the heat."
     },
 ] 
