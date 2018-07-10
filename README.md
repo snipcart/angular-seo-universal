@@ -7,5 +7,7 @@
 `ng serve`
 
 ## Production
-`npm run build:ssr`
-`npm run serve:ssr`
+`npm run build:ssr && npm run serve:ssr`
+
+## Live demo:
+https://snipcart-angular-universal.herokuapp.com/
