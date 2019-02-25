@@ -18,3 +18,5 @@ Here are the steps we'll use to achieve this:
 > [Read full tutorial](https://snipcart.com/blog/angular-seo-universal-server-side-rendering)
 
 > [See live demo](https://snipcart-angular-universal.herokuapp.com/)
+
+Enjoy folks!
